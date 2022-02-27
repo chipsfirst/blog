@@ -1,4 +1,4 @@
-[First post](github.com/chipsfirst/blog/docs/post1.md)
+[First post](https://github.com/chipsfirst/blog/blob/main/docs/post1.md)
 
 ## Welcome to GitHub Pages
 
